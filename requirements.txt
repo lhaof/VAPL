@@ -12,3 +12,4 @@ torchmetrics==0.11.1
 torchvision==0.11.1
 tornado==6.2
 tqdm==4.65.2
+monai==0.7.0
