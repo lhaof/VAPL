@@ -44,7 +44,7 @@ The weights are stored in the weights file
 
 ## How to transfer
 
-Modify the code in trainclinical.py as follows:
+Modify the code in train_modelclinical.py as follows:
 
 
 `ld_helper = LoaderHelper(task=Task.sMCI_v_pMCI)`
